@@ -8,6 +8,6 @@ services:
     tty: true
     ports:
       # HTTP
-target: 8501
-published: 8501
-protocol: tcp
+target : 8501
+published : 8501
+protocol : tcp
