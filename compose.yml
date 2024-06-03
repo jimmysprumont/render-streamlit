@@ -6,7 +6,7 @@ services:
   data-streamlit:
     build:
       context: 
-    volume:
+    volumes:
       - ./app/data:/streamlit
     tty: true
     port: 
