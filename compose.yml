@@ -1,11 +1,13 @@
 version: '3.8'
 
 services:
+
+# STREAMLIT 
   data-streamlit:
     build:
-      context: ./app/data-streamlit
+      context: 
     volume:
-      - ./data:/app/streamlit
+      - ./app/data:/streamlit
     tty: true
     port: 
       # HTTP
