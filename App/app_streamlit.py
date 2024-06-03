@@ -1,2 +1,2 @@
-import app_streamlit
+import streamlit as st
 st.title('Le streamlit')
