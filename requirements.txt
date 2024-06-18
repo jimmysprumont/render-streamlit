@@ -4,3 +4,10 @@ streamlit
 # MACHINE LEARNING
 scikit-learn
 
+# EDA:
+pandas
+time
+bs4
+requests
+json
+datetime
