@@ -1,0 +1,4 @@
+nom,prenom,password,email,date_naiss,tel,code_postal,accor_recom,accor_mail,selection_genres,selection_decennies,films_favoris
+Data's Comming,Game of Data,MayTheDataBe,gameofdata@licorne.love,27/02/24,xxxxxxxxxx,33000,1,1,Crime*&$Documentary*&$Musical,,"Gladiator (2000)*&$Le Seigneur des anneaux : Les Deux Tours (2002)*&$V pour vendetta (2005)*&$La Cité de la peur, une comédie familiale (1994)*&$En avant (2020)*&$Donjons & Dragons : L'Honneur des voleurs (2023)"
+Administrateur,Administrateur,admin,cinema_prospere@camera.clap,,,23100,1,1,,,
+sprumont,jimmy,Testtest,sprumontjimmy@gmail.com,2024-06-17,,0,1,0,Crime*&$History,,Forrest Gump (1994)
